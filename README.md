@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ana 👋
 
-<!--
-**aryMello/aryMello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A final-year Computer Science student with hands-on experience in tech since 2021. From robotics education to support engineering at e-Core/Atlassian.
 
-Here are some ideas to get you started:
+I’m passionate about building thoughtful systems at the intersection of data, automation, and intelligence. My current focus is on specializing in **Data Engineering** and **AI**, where I apply what I learn through practical, real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests & Tools
+- **Languages**: Python, SQL, Shell, JavaScript
+- **Technologies**: Apache Spark, Airflow, Kafka, Hadoop, TensorFlow, PyTorch
+- **Topics**: Data Pipelines • Machine Learning • MLOps • LLMs • Computer Vision
+
+### 📁 Featured Projects
+Here you’ll find hands-on work and study repositories from:
+- **IBM Data Engineering Capstone**
+- **AI and Computer Vision Learning Journey**
+- **Machine Learning & Deep Learning projects**
+- **Coding Challenge Practice in Python and SQL**
+
+Each repo is a snapshot of my learning process, focused on practical application, clarity, and real-world relevance.
+
+### 💡 Currently Learning
+- Building end-to-end AI pipelines
+- LLM experimentation & prompt engineering
+- DataOps and MLOps workflows
+
+### 🌐 Find Me Elsewhere
+- [LinkedIn](https://www.linkedin.com/in/anavm)
+- [Certifications & Projects on LinkedIn](https://www.linkedin.com/in/anavm/details/projects/)
+
+---
+
+> "Quietly creating impact — I let curiosity and code do the talking."
