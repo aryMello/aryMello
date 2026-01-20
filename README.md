@@ -1,41 +1,51 @@
-# Hi, I'm Ana 👋
+# Hi, I'm Ana!
 
-A final-year Computer Science student with hands-on experience in tech since 2021, from robotics education to cloud support engineering at Atlassian (e-Core).
+**Artificial Intelligence Engineer @ [Indicum AI](https://indicium.ai/)**
 
-I'm passionate about building thoughtful, intelligent systems at the intersection of **data, automation, and AI**. My work blends **data engineering**, **ML development**, and **.NET backend systems** with a focus on performance, scalability, and real-world usability.
+*BS Computer Science • Postgraduate Student in AI & Deep Learning*
 
-### 🧠 Interests & Tools
+I am an engineer bridging the gap between academic research and production systems. Currently working in R&D, I specialize in designing AIOps frameworks for AI Agents and orchestrating MLOps lifecycles in multi-cloud environments.
 
-- **Languages**: Python, C#, C, SQL, JavaScript, Bash, C++
-- **Frameworks & Libraries**: .NET, Flask, TensorFlow, PyTorch, OpenCV, scikit-learn, Pandas, Express, JUnit
-- **Data & Cloud Stack**: Apache Spark, Airflow, Kafka, Hadoop, AWS (Lambda, EC2, RDS), Docker, Databricks, MongoDB, PostgreSQL, Power BI
-- **Domains**: Data Engineering • Machine Learning • MLOps • Computer Vision • LLMs • Recommender Systems • DevOps • Prompt Engineering
+My work focuses on the intersection of **Generative AI, Model Observability, and Data Engineering**, ensuring that intelligent systems are not only powerful, but measurable and reliable.
 
-### 📁 Featured Projects
+### Tech Stack
 
-Here you’ll find hands-on repositories and applied projects including:
+| Domain | Technologies |
+| :--- | :--- |
+| **Generative AI** | State of Art LLMs, AWS Bedrock, LangChain, Hugging Face Transformers, RAG |
+| **MLOps & Evaluation** | Databricks, MLflow, Agent Evaluation Frameworks, Pydantic |
+| **Cloud & DevOps** | GCP, AWS (Lambda, EC2, SageMaker), Docker, Bitbucket (CI/CD), Git Bash |
+| **Data Engineering** | Apache Spark, Airflow, Kafka, SQL, MongoDB |
+| **Core Languages** | Python (SOTA libraries), .NET (C#), C++, Bash |
 
-- **[AWS Pharmacy Cost Reduction Platform](https://github.com/aryMello/aws-pharmacy-cost-reduction)** – Flask + AWS backend app for price optimization
-- **[Reinforcement Learning & CV Agents](https://github.com/aryMello/hands-on-ai-cv)** – RL agents and real-time object detection
-- **[IBM Data Engineering Capstone](https://github.com/aryMello/IBM-Data-Engineer-Capstone-Project)** – ETL pipeline with Spark, Airflow, and MongoDB
-- **[ML & Recommenders](https://github.com/aryMello/hands-on-ml)** – Classification, regression, and collaborative filtering systems
-- **[QA Automation Suite](https://github.com/aryMello/desafio-testes-qa)** – API and UI testing with JUnit & Cypress
-- **[C#/.NET Desktop Apps](https://github.com/aryMello/sistema_celulares)** – Real-world CRUD and role-based logic in .NET
+### Featured Projects
 
-Each repo is a step forward in mastering tools, solving real problems, and learning by doing.
+Here are selected projects demonstrating my engineering capability:
 
-### 💡 Currently Learning
+- **[SRAG Intelligent Analytics (Gemini)](https://github.com/aryMello/desafio-de-genAI)**
+  *PoC for epidemiological surveillance using **Google Gemini**. Features RAG for real-time news correlation and privacy-preserving analysis.*
 
-- Building production-grade AI systems with CI/CD and Docker
-- Using LLMs with LangChain & vector DBs for custom agents
-- Strengthening DevOps and MLOps practices
+- **[Big Data ETL Pipeline](https://github.com/aryMello/IBM-Data-Engineer-Capstone-Project)**
+  *End-to-end data engineering pipeline using Apache Spark, Airflow, and MongoDB to process and stage high-volume datasets.*
 
-### 🌐 Let’s Connect
+- **[AWS Cost Optimization](https://github.com/aryMello/aws-pharmacy-cost-reduction)**
+  *Cloud-native application (Flask/AWS) designed to optimize pharmaceutical pricing structures and reduce infrastructure costs.*
 
-- [LinkedIn](https://www.linkedin.com/in/anavm)
-- [Certifications & Projects](https://www.linkedin.com/in/anavm/details/projects/)
-- 📬 Email: onlinebea@hotmail.com
+- **[Deep Learning Research](https://github.com/aryMello/hands-on-ai-cv)**
+  *Implementation of Reinforcement Learning agents and real-time Computer Vision systems.*
+
+### Current R&D Focus
+
+In my current role and postgraduate studies, I am deeply focused on:
+- **Agent Evaluation:** Implementing metrics to benchmark LLM performance (hallucination rates, context precision, cost tracking).
+- **Multi-Cloud AI:** Orchestrating models across GCP and AWS Bedrock for optimal performance/cost.
+- **MLOps:** Managing the full lifecycle of models using MLflow and Databricks in enterprise workflows.
 
 ---
 
-> *"Quietly creating impact. I let curiosity and code do the talking."*
+### Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/anavm)
+- [Portfolio & Certifications](https://www.linkedin.com/in/anavm/details/projects/)
+
+> *Note: A significant portion of my commercial contributions are in private **Bitbucket** repositories.*
